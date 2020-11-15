@@ -1,5 +1,5 @@
 # PPT2WORD-Converter
-![GUI](view.jpg)
+![GUI](PPT2WORD-Converter/view.JPG)
 # Try It Out
 If you want to use the .exe file, you will have to put the image and the .exe file in the same folder in order for it to work. \
 The same applies to main.py if you want to run it with that.
