@@ -1,4 +1,7 @@
 # PPT2WORD-Converter
+# Try It Out
+If you want to use the .exe file, you will have to put the image and the .exe file in the same folder in order for it to work. \
+The same applies to main.py if you want to run it with that.
 ## Inspiration
 Taking notes from a PowerPoint takes a lot of time and sometimes you just miss some of the information. \
 Being able to convert the PowerPoint directly into a Word document not only saves time but also ensures that all information is written down.
